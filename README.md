@@ -34,5 +34,5 @@ An existing data set of ~200,000 tweets was sourced from this link: https://gith
 ![image](https://github.com/user-attachments/assets/35e219f6-fdd9-409c-9bd9-6c19bcc4898a)
 - It was found that ultimately, sentiment analysis does not provide enough information if the goal is to automate the detection of 'fake/troll/misinformation' content on the web.
 - - Location data helps, but can be spoofed
-  - - ex: A Russian national sending a tweet from Moscow about a US election can easily fake their location to be from Missouri, for example
+  - - ex: A foreign national sending a tweet about a US election can easily spoof their location to be from Missouri, for example
     - The inclusion of VPN services and other similar mechanisms further complicate matters
